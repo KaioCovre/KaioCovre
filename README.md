@@ -1,6 +1,5 @@
 ### Hello I'm Kaio Covre
 - 🌱 I’m currently learning python
-- 📫 How to reach me: kaio.acovre@gmail.com
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kaiocovre&theme=dark&show_icons=true" />
